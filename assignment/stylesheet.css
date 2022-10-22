@@ -1,0 +1,16 @@
+body{
+    background-image: url('record.png');
+    background-repeat: repeat-y;
+    margin: 0;
+}
+
+#bodyHeader{
+    background-color: black;
+    color: grey;
+    text-align: center;
+}
+
+.mainClass{
+    background-color: lightgrey;
+    padding: 1em;
+}
